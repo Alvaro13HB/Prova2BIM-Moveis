@@ -1,0 +1,5 @@
+export { Home as ScreenHome } from "./Home"
+export { Mercado as ScreenMercado } from "./Mercado"
+export { Galeria as ScreenGaleria } from "./Galeria"
+export { Carteira as ScreenCarteira } from "./Carteira"
+export { Noticias as ScreenNoticias } from "./Noticias"
